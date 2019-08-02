@@ -1,0 +1,9 @@
+Header header
+bool djiros_state
+bool vo_state
+bool loop_state
+bool n1ctrl_state
+bool planner_state
+bool takeoff_state
+bool gear_state
+bool rc_state
