@@ -1,0 +1,5 @@
+uint8 cmd_code
+string base_cmd
+---
+bool success
+string message
